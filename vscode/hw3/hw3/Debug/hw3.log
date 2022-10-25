@@ -1,0 +1,3 @@
+﻿  p12.c
+C:\Users\hongy\OneDrive\桌面\HW3\vscode\source\p12.c(11,23): warning C4013: 'square' 未定義; 假設 extern 傳回整數
+  hw3.vcxproj -> C:\Users\hongy\OneDrive\桌面\HW3\vscode\hw3\Debug\hw3.exe
